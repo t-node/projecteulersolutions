@@ -1,3 +1,5 @@
+package com.projecteuler.solutions;
+
 /**
  * Created by vevinmoza on 7/29/17.
  */
