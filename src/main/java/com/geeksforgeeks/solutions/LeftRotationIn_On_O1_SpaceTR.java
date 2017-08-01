@@ -2,10 +2,8 @@ package com.geeksforgeeks.solutions;
 
 import java.util.Arrays;
 import java.util.Scanner;
-/**
- * Created by vevinmoza on 7/30/17.
- */
-public class LeftRotationIn_On_O1_Space {
+
+public class LeftRotationIn_On_O1_SpaceTR {
     public static void main(String[] args){
         Scanner s1= new Scanner(System.in);
         int testCases=0;
@@ -32,8 +30,5 @@ public class LeftRotationIn_On_O1_Space {
         }
 
     }
-
-
-
 
 }

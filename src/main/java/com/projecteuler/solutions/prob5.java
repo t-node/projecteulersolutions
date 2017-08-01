@@ -1,8 +1,5 @@
 package com.projecteuler.solutions;
 
-/**
- * Created by vevinmoza on 7/30/17.
- */
 public class prob5 {
     public static void main(String[] args){
         int number=20;

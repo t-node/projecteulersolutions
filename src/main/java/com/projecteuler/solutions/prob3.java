@@ -1,8 +1,5 @@
 package com.projecteuler.solutions;
 
-/**
- * Created by vevinmoza on 7/29/17.
- */
 public class prob3 {
     public static void main(String[] args){
     Long number=new Long("600851475143");

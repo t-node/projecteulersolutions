@@ -1,8 +1,5 @@
 package com.projecteuler.solutions;
 
-/**
- * Created by vevinmoza on 7/30/17.
- */
 public class prob4 {
     public static void main(String[] args){
         int product=1;
